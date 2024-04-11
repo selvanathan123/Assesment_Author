@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InspirinngQuotes", "InspirinngQuotes\InspirinngQuotes.csproj", "{10D5C34B-7211-40A2-8B8A-37C6FE0CE7B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10D5C34B-7211-40A2-8B8A-37C6FE0CE7B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D5C34B-7211-40A2-8B8A-37C6FE0CE7B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D5C34B-7211-40A2-8B8A-37C6FE0CE7B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D5C34B-7211-40A2-8B8A-37C6FE0CE7B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04E01832-879B-43A9-8802-B3E1D36C7F97}
+	EndGlobalSection
+EndGlobal

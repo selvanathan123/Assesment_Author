@@ -1,0 +1,6 @@
+@InspirinngQuotes_HostAddress = http://localhost:5047
+
+GET {{InspirinngQuotes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
